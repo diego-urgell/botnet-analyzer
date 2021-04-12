@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/DateTime.h
+
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/IP.h
+
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/LogRegister.h
+
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/ResizingVectorGraph.h
+
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/main.cpp
+iostream
+-
+vector
+-
+tuple
+-
+map
+-
+IP.h
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/IP.h
+DateTime.h
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/DateTime.h
+ResizingVectorGraph.h
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/ResizingVectorGraph.h
+LogRegister.h
+/Users/diego.urgell/CLionProjects/TC1031_Algorithms/Bloque3/SP_Final/LogRegister.h
+

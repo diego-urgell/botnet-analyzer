@@ -1,0 +1,53 @@
+Diego Enrique Jiménez Urgell A01652617
+23/11/2020
+
+LIST OF ATTACKS GROUPED PER TARGET
+
+TARGET: 14.23.247.149
+------- Date Time: Apr 14 9:20:47   Attacker: 208.181.3.7   Number of attacks: 8
+Total number of attacks: 8
+
+TARGET: 159.165.199.142
+------- Date Time: May 17 1:20:44   Attacker: 9.16.208.69   Number of attacks: 13
+------- Date Time: Jun 15 2:35:38   Attacker: 113.98.131.9   Number of attacks: 14
+Total number of attacks: 27
+
+TARGET: 234.216.42.218
+------- Date Time: Sep 28 4:30:29   Attacker: 146.199.48.11   Number of attacks: 15
+------- Date Time: Jun 11 5:57:36   Attacker: 99.35.219.65   Number of attacks: 17
+------- Date Time: Jan 27 10:41:35   Attacker: 100.196.232.138   Number of attacks: 18
+Total number of attacks: 50
+
+TARGET: 91.112.221.134
+------- Date Time: Apr 29 9:38:34   Attacker: 8.43.49.97   Number of attacks: 10
+------- Date Time: Dec 22 2:52:53   Attacker: 48.243.243.164   Number of attacks: 14
+------- Date Time: Sep 15 7:32:14   Attacker: 137.210.125.226   Number of attacks: 11
+Total number of attacks: 35
+
+TARGET: 212.98.20.165
+------- Date Time: Oct 16 11:52:50   Attacker: 99.71.234.51   Number of attacks: 12
+------- Date Time: Jul 15 7:49:23   Attacker: 185.117.65.81   Number of attacks: 9
+------- Date Time: Jan 24 10:34:33   Attacker: 213.33.32.184   Number of attacks: 10
+------- Date Time: Apr 5 7:38:31   Attacker: 149.170.178.246   Number of attacks: 7
+------- Date Time: Aug 21 8:59:29   Attacker: 140.28.69.239   Number of attacks: 5
+Total number of attacks: 43
+
+TARGET: 1.36.206.170
+------- Date Time: Oct 2 6:20:57   Attacker: 152.176.107.12   Number of attacks: 6
+Total number of attacks: 6
+
+TARGET: 250.173.69.66
+------- Date Time: Jul 24 5:53:59   Attacker: 97.178.113.118   Number of attacks: 7
+------- Date Time: Oct 9 6:54:40   Attacker: 113.98.131.9   Number of attacks: 18
+------- Date Time: Jan 24 11:57:57   Attacker: 119.116.228.168   Number of attacks: 15
+Total number of attacks: 40
+
+TARGET: 40.65.169.29
+------- Date Time: Dec 29 9:42:57   Attacker: 14.163.209.135   Number of attacks: 11
+------- Date Time: Dec 9 11:12:16   Attacker: 155.109.244.123   Number of attacks: 10
+------- Date Time: Oct 23 2:43:38   Attacker: 149.170.178.246   Number of attacks: 17
+Total number of attacks: 38
+
+TARGET: 169.253.224.218
+------- Date Time: Feb 20 7:44:57   Attacker: 99.35.219.65   Number of attacks: 6
+Total number of attacks: 6
